@@ -1,0 +1,1 @@
+String.prototype.reverse=function(){return this.split("").reverse().join("")};function t(e,n){v_obj=e,v_fun=n,setTimeout("execmascara()",1)}function o(e){return e=e.replace(/\D/g,""),e=e.replace(/^(\d{2})(\d)/g,"($1) $2"),e=e.replace(/(\d)(\d{4})$/,"$1-$2"),e}function r(e){return document.getElementById(e)}window.onload=function(){r("telefone").onkeyup=function(){t(this,o)}};

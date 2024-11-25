@@ -1,0 +1,37 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-89b94724.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/imgSite/ela.jpg": {
+    "file": "assets/ela-73f286de.jpg",
+    "src": "resources/imgSite/ela.jpg"
+  },
+  "resources/imgSite/konta.png": {
+    "file": "assets/konta-76e7a80c.png",
+    "src": "resources/imgSite/konta.png"
+  },
+  "resources/imgSite/logo_crm2.png": {
+    "file": "assets/logo_crm2-5a84bff9.png",
+    "src": "resources/imgSite/logo_crm2.png"
+  },
+  "resources/imgSite/tela.png": {
+    "file": "assets/tela-18a9b1ac.png",
+    "src": "resources/imgSite/tela.png"
+  },
+  "resources/imgSite/telaspix.png": {
+    "file": "assets/telaspix-49a66616.png",
+    "src": "resources/imgSite/telaspix.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-20106add.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/meus.js": {
+    "file": "assets/meus-2122229f.js",
+    "isEntry": true,
+    "src": "resources/js/meus.js"
+  }
+}
